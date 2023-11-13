@@ -2933,7 +2933,6 @@ button:disabled,
 	background-size: auto, cover, cover;
 	text-align: center;
 }
-}
 
 /* .main.style2 {
 
@@ -2945,7 +2944,6 @@ button:disabled,
 	background-attachment: fixed, fixed;
 	background-image: url("images/overlay1.png"), url("../../images/header.jpg");
 	background-size: auto, cover;      /*   grey version  */ 
-} */
 
 
 .main.style2 a {
